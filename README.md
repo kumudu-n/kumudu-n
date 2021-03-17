@@ -1,7 +1,7 @@
-- 👋 Hi, I’m kumudu
-- 👀 I’m interested in Web designing
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on others
+  👋 Hi, I’m kumudu
+  - 👀 I’m interested in Web designing
+  - 🌱 I’m currently learning Computer Science
+  - 💞️ I’m looking to collaborate on others
 
 
 <!---
